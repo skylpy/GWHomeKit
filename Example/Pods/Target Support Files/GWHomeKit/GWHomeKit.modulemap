@@ -1,0 +1,6 @@
+framework module GWHomeKit {
+  umbrella header "GWHomeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
